@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/snaprepo/static/css/main.ec41352a.chunk.css",
+    "main.js": "/snaprepo/static/js/main.1ec4eab8.chunk.js",
+    "main.js.map": "/snaprepo/static/js/main.1ec4eab8.chunk.js.map",
+    "runtime-main.js": "/snaprepo/static/js/runtime-main.9980cf89.js",
+    "runtime-main.js.map": "/snaprepo/static/js/runtime-main.9980cf89.js.map",
+    "static/js/2.beea703f.chunk.js": "/snaprepo/static/js/2.beea703f.chunk.js",
+    "static/js/2.beea703f.chunk.js.map": "/snaprepo/static/js/2.beea703f.chunk.js.map",
+    "index.html": "/snaprepo/index.html",
+    "precache-manifest.7670d60d5fd4a86c960d0a7ccd65a58b.js": "/snaprepo/precache-manifest.7670d60d5fd4a86c960d0a7ccd65a58b.js",
+    "service-worker.js": "/snaprepo/service-worker.js",
+    "static/css/main.ec41352a.chunk.css.map": "/snaprepo/static/css/main.ec41352a.chunk.css.map",
+    "static/js/2.beea703f.chunk.js.LICENSE.txt": "/snaprepo/static/js/2.beea703f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9980cf89.js",
+    "static/js/2.beea703f.chunk.js",
+    "static/css/main.ec41352a.chunk.css",
+    "static/js/main.1ec4eab8.chunk.js"
+  ]
+}
